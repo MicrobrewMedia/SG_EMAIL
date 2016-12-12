@@ -1,2 +1,0 @@
-# SG_EMAIL
-# SG_EMAIL
